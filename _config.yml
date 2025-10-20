@@ -102,11 +102,11 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#15262E"
 feature_text_color                        : "#15262E"
 
-feature_icons_foreground_color            : "#A02819"
-feature_icons_background_color            : "#20A02819"
+feature_icons_foreground_color            : "#ffffff"
+feature_icons_background_color            : "#A02819"
 
-social_icons_foreground_color             : "#A02819"
-social_icons_background_color             : "#20A02819"
+social_icons_foreground_color             : "#ffffff"
+social_icons_background_color             : "#A02819"
 
 footer_text_color                         : "#15262E"
 
